@@ -1,3 +1,3 @@
 # personal drive
 <center>
-<img align="" width="2048" src="https://xwwbest.cf"></center>
+<img align="" width="480" src="https://xwwbest.cf"></center>
